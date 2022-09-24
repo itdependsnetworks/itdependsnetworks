@@ -34,7 +34,7 @@ My current role is VP of Professional Services, but I like to stay technically s
 
 ## Projects I maintain
 
-- Nautobot-Plugin-Nornir <a href="https://raw.githubusercontent.com/nautobot/nautobot-plugin-nornir"><img width="20" src="https://raw.githubusercontent.com/nautobot/nautobot-plugin-nornir/develop/docs/images/icon-NautobotPluginNornir.png" alt="Nautobot-Plugin-Nornir"></a>
+- Nautobot-Plugin-Nornir <a href="https://github.com/nautobot/nautobot-plugin-nornir"><img width="20" src="https://raw.githubusercontent.com/nautobot/nautobot-plugin-nornir/develop/docs/images/icon-NautobotPluginNornir.png" alt="Nautobot-Plugin-Nornir"></a>
 - Nautobot-Golden-Config <a href="https://github.com/nautobot/nautobot-plugin-golden-config"><img width="20" src="https://raw.githubusercontent.com/nautobot/nautobot-plugin-golden-config/develop/docs/images/icon-NautobotGoldenConfig.png" alt="Nautobot-Golden-Config"></a>
 - Netutils <a href="https://github.com/networktocode/netutils"><img width="80" src="https://img.shields.io/badge/network%20to%20code-netutils-black" alt="Netutils"></a>
 
