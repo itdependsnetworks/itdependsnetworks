@@ -1,3 +1,18 @@
+## My GitHub Stats
+
+[![Ken's Github Stats](https://github-readme-stats.vercel.app/api?username=itdependsnetworks&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔧 Technologies & Tools
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ### About Me
 
 Work:
@@ -17,32 +32,14 @@ My current role is VP of Professional Services, but I like to stay technically s
 
 <a href="https://blog.networktocode.com/authors/ken-celenza"><img width="80" src="https://img.shields.io/badge/network%20to%20code-blog-black" alt="My Blog Entries"></a>
 
-
-## 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
 ## Projects I maintain
 
 - Nautobot-Plugin-Nornir <a href="https://raw.githubusercontent.com/nautobot/nautobot-plugin-nornir"><img width="20" src="https://raw.githubusercontent.com/nautobot/nautobot-plugin-nornir/develop/docs/images/icon-NautobotPluginNornir.png" alt="Nautobot-Plugin-Nornir"></a>
 - Nautobot-Golden-Config <a href="https://github.com/nautobot/nautobot-plugin-golden-config"><img width="20" src="https://raw.githubusercontent.com/nautobot/nautobot-plugin-golden-config/develop/docs/images/icon-NautobotGoldenConfig.png" alt="Nautobot-Golden-Config"></a>
 - Netutils <a href="https://github.com/networktocode/netutils"><img width="80" src="https://img.shields.io/badge/network%20to%20code-netutils-black" alt="Netutils"></a>
 
-
-
 ## Top projects I've contributed to
 
 - Nautobot <a href="https://github.com/nautobot/nautobot"><img width="80" src="https://raw.githubusercontent.com/nautobot/nautobot/develop/nautobot/docs/nautobot_logo.svg" alt="Nautobot"></a>
 - Ansible <a href="https://github.com/nautobot/nautobot-plugin-golden-config"><img width="60" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"></a>
 - Napalm <a href="https://github.com/napalm-automation/napalm"><img width="15" src="https://raw.githubusercontent.com/napalm-automation/napalm/develop/static/logo.png" alt="Napalm"></a>
-
-## My GitHub Stats
-
-[![Ken's Github Stats](https://github-readme-stats.vercel.app/api?username=itdependsnetworks&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
