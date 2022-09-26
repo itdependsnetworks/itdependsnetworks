@@ -2,6 +2,10 @@
 
 [![Ken's Github Stats](https://github-readme-stats.vercel.app/api?username=itdependsnetworks&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Blog
+
+<a href="https://blog.networktocode.com/authors/ken-celenza"><img width="80" src="https://img.shields.io/badge/network%20to%20code-blog-black" alt="My Blog Entries"></a>
+
 ## 🔧 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -12,6 +16,18 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## Projects I maintain
+
+- <a href="https://github.com/nautobot/nautobot-plugin-golden-config"><img width="20" src="https://raw.githubusercontent.com/nautobot/nautobot-plugin-golden-config/develop/docs/images/icon-NautobotGoldenConfig.png" alt="Nautobot-Golden-Config"> Nautobot-Golden-Config</a>
+- <a href="https://github.com/networktocode/netutils"><img width="80" src="https://img.shields.io/badge/network%20to%20code-netutils-black" alt="Netutils"></a>
+- <a href="https://github.com/nautobot/nautobot-plugin-nornir"><img width="20" src="https://raw.githubusercontent.com/nautobot/nautobot-plugin-nornir/develop/docs/images/icon-NautobotPluginNornir.png" alt="Nautobot-Plugin-Nornir"> Nautobot-Plugin-Nornir</a>
+
+## Top projects I've contributed to
+
+- <a href="https://github.com/nautobot/nautobot"><img width="80" src="https://raw.githubusercontent.com/nautobot/nautobot/develop/nautobot/docs/nautobot_logo.svg" alt="Nautobot"></a>
+- <a href="https://github.com/nautobot/nautobot-plugin-golden-config"><img width="60" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"></a>
+-  <a href="https://github.com/napalm-automation/napalm"><img width="15" src="https://raw.githubusercontent.com/napalm-automation/napalm/develop/static/logo.png" alt="Napalm"> Napalm</a>
 
 ### About Me
 
@@ -25,21 +41,7 @@ I was a traditional Network Engineer and part time scripter in my duties until I
 
 My current role is VP of Professional Services, but I like to stay technically sharp on my nights & weekends.
 
-- 🔭 I’m currently working on Network Automation 
-- 📫 How to reach me: Twitter -> itdependsnet Slack -> Join at http://slack.networktocode.com/
-
-## Blog
-
-<a href="https://blog.networktocode.com/authors/ken-celenza"><img width="80" src="https://img.shields.io/badge/network%20to%20code-blog-black" alt="My Blog Entries"></a>
-
-## Projects I maintain
-
-- Nautobot-Plugin-Nornir <a href="https://github.com/nautobot/nautobot-plugin-nornir"><img width="20" src="https://raw.githubusercontent.com/nautobot/nautobot-plugin-nornir/develop/docs/images/icon-NautobotPluginNornir.png" alt="Nautobot-Plugin-Nornir"></a>
-- Nautobot-Golden-Config <a href="https://github.com/nautobot/nautobot-plugin-golden-config"><img width="20" src="https://raw.githubusercontent.com/nautobot/nautobot-plugin-golden-config/develop/docs/images/icon-NautobotGoldenConfig.png" alt="Nautobot-Golden-Config"></a>
-- Netutils <a href="https://github.com/networktocode/netutils"><img width="80" src="https://img.shields.io/badge/network%20to%20code-netutils-black" alt="Netutils"></a>
-
-## Top projects I've contributed to
-
-- Nautobot <a href="https://github.com/nautobot/nautobot"><img width="80" src="https://raw.githubusercontent.com/nautobot/nautobot/develop/nautobot/docs/nautobot_logo.svg" alt="Nautobot"></a>
-- Ansible <a href="https://github.com/nautobot/nautobot-plugin-golden-config"><img width="60" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"></a>
-- Napalm <a href="https://github.com/napalm-automation/napalm"><img width="15" src="https://raw.githubusercontent.com/napalm-automation/napalm/develop/static/logo.png" alt="Napalm"></a>
+- I’m currently working on Network Automation 
+- How to reach me:
+    - <a href="https://twitter.com/itdependsnet"><img width="50" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
+    - <a href="http://slack.networktocode.com/"><img width="50" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"></a>
