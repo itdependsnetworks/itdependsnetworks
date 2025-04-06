@@ -4,7 +4,7 @@
 
 ## Blog
 
-<a href="https://blog.networktocode.com/authors/ken-celenza"><img width="80" src="https://img.shields.io/badge/network%20to%20code-blog-black" alt="My Blog Entries"></a>
+<a href="https://networktocode.com/blog/?author=ken-celenza"><img width="80" src="https://img.shields.io/badge/network%20to%20code-blog-black" alt="My Blog Entries"></a>
 
 ## 🔧 Technologies & Tools
 
@@ -39,7 +39,7 @@ Work:
 
 I was a traditional Network Engineer and part time scripter in my duties until I became a full time Network Automation Engineer when joining Network to Code in 2016. 
 
-My current role is VP of Professional Services, but I like to stay technically sharp on my nights & weekends.
+My current role is VP of Architecture & Product Engineering, but I like to stay technically sharp on my nights & weekends.
 
 - I’m currently working on Network Automation 
 - How to reach me:
